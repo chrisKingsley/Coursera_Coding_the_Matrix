@@ -1,0 +1,3 @@
+*.pyc
+Lectures/*
+Assignments/__pycache__
